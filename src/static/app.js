@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
                       aria-label="Remove ${participant} from ${name}"
                       title="Remove participant"
                     >
-                      <span aria-hidden="true">x</span>
+                      <span aria-hidden="true">&times;</span>
                     </button>
                   </li>`
               )
